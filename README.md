@@ -2,8 +2,6 @@
 
 ## Task Details
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/8afad979-93df-4a57-b3a9-9ddbc8ee2c9e" />
-
 The provided technical task was to create an AWS S3 Bucket, an EventBridge rule, and an AWS Lambda function using Terraform code. The objective is to trigger the Lambda function whenever a CSV file is added to the S3 bucket, with the Lambda function printing the CSV file data.
 
 ## Overview
